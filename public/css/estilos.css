@@ -1,0 +1,80 @@
+a:hover {
+    text-decoration: none;
+}
+
+#buscar {
+    float: left;
+    width: 75%;
+    margin-right: 10px;
+    height: 37px;
+}
+
+#enviar {
+    margin-left: 15px;
+}
+
+nav>a:first-child {
+    margin-left: 5%;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin-top: 40px;
+}
+
+#rojo {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+#azul {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+}
+
+#previsualizarImagen {
+    width: 150px;
+}
+
+#imagenUsuario {
+    border-radius: 50%;
+    width: 35px;
+}
+
+#insertarProducto {
+    margin-top: 30px;
+    float: right;
+}
+
+#enlace {
+    color: black;
+}
+
+#enlace:hover {
+    color: darkslateblue;
+}
+
+#tablaComentarios {
+    margin-top: 25px;
+}
+
+.displayInline {
+    display: inline;
+}
+
+#imagenProdForm {
+    width: 150px;
+}
+
+#contenedorDetalles {
+    margin-bottom: 50px;
+}
+
+#vistaComentarios {
+    margin-top: 50px;
+}
